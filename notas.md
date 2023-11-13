@@ -46,14 +46,29 @@ markdown
 
 ### Comandos en GIT
 
-- **Pull:** para bajar cambios anteriores
-- **Push:** para subir los cambios al proyecto
-- **Fetch:** Comando para forzar y hacer que el programe funciones
-- **Commit:** Guarda los cambios realizados y los guarda en  la carpeta local
+- **git pull:** para bajar cambios anteriores
+- **git push:** para subir los cambios al proyecto
+- **git fetch:** Comando para forzar y hacer que el programe funciones
+- **git commit:** Guarda los cambios realizados y los guarda en  la carpeta local
 - **Clone:** Copia el repositorio en la computadora de manera local
 - **git --version:** Version del git
 - **git config --global user.name "DavidME1604":** Config. usuario
 - **git config --global user.name "davidestebanmoralese@gmail.com":** Config email
 - **git init:** Inicializa el repositorio
-- **git add:** Agregar archivos
+- **git add:** Agregar archivos (con un . subo todo lo que este en la carpeta)
 - **git status:** Estatus del backgound 
+
+### Comandos Linux
+
+- **pwd:**Ubicacion de en donde estoy en el directorio
+- **clear:**Limpiar
+- **cd /home/usuario/proyecto_git:**Ingresar a directorios
+- **ls -l:**Listar
+- **cat:**Ver contenido
+- **touch:**Crear archivos
+
+## Clase 4 GIT
+
+*Fecha 13 de noviembre del 2023*
+
+git branch -m  main renombrar
